@@ -14,6 +14,8 @@
 
 ### module 2
 
+[Numerical data explained | Introducing digits, range and precision for programming beginners](https://youtu.be/YDDqe60omL0)
+
 ### Module 3
 
 ### Module 4
@@ -22,4 +24,6 @@
 
 ### Module 6
 
-[edit on GitHub](https://github.com/aspiece/Michigan-Virtual-Computer-Science/edit/gh-pages/fundamentals.md).
+### General resources
+
+[MS Developers - Introduction to Python]()

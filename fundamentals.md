@@ -21,6 +21,9 @@
 
 ### Module 5
 
+[Introduction to numerical systems and binary](https://youtu.be/ku4KOFQ-bB4){:target="_blank"}
+[Encoding and decoding ASCII](https://youtu.be/z_URHQzlFro){:target="_blank"}
+
 ### Module 6
 
 ### General resources

@@ -4,7 +4,7 @@
 
 ### Module 1
 
-### module 2
+### Module 2
 
 [Numerical data explained - introducing digits](https://youtu.be/YDDqe60omL0)
 

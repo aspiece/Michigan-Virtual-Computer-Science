@@ -1,4 +1,4 @@
-# Fundamentals of programming additional resources
+# Fundamentals of programming
 
 ## Instructor - Andrew Spiece
 

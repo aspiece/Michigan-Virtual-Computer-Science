@@ -6,7 +6,7 @@
 
 ### module 2
 
-[Numerical data explained | Introducing digits, range and precision for programming beginners](https://youtu.be/YDDqe60omL0)
+[Numerical data explained - introducing digits, range and precision for programming beginners](https://youtu.be/YDDqe60omL0)
 
 ### Module 3 - Loops and functions
 

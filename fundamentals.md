@@ -1,14 +1,6 @@
-# Computer science course resources
+# Fundamentals of programming additional resources
 
 ## Instructor - Andrew Spiece
-
-## Courses
-
-* [Fundamantals of programming](fundamentals.md)
-* AP computer science principles
-* AP computer science principles
-
-## Fundamentals of programming
 
 ### Module 1
 
@@ -16,7 +8,14 @@
 
 [Numerical data explained | Introducing digits, range and precision for programming beginners](https://youtu.be/YDDqe60omL0)
 
-### Module 3
+### Module 3 - Loops and functions
+
+#### Video resources
+
+* [Loops](https://youtu.be/LrOAl8vUFHY)
+* [Loops Demostration](https://youtu.be/rAvD-6MpTw4)
+* [Functions](https://youtu.be/nrCAxXfRU28)
+* [Functions Demo](https://youtu.be/C9ZEGqGHXms)
 
 ### Module 4
 
@@ -26,4 +25,4 @@
 
 ### General resources
 
-[MS Developers - Introduction to Python]()
+[MS Developers - Python for beginners playlist](https://youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)

@@ -4,25 +4,49 @@
 
 ### Module 1
 
+* [Introducing Python](https://youtu.be/7XOhibxgBlQ){:target="_blank"}
+* [Getting started with Python and VSCode](https://youtu.be/CXZYvNRIAKM){:target="_blank"}
+  * VSCode is not required for the course but a tremendous free tool for programming you may consider using.
+* [Using the Print function](https://youtu.be/FhoASwgvZHk){:target="_blank"}
+* [Hello world demo](https://youtu.be/wWwr0tDSqnE){:target="_blank"}
+* [Strong concepts](https://youtu.be/tSebLz1hNpA){:target="_blank"}
+* [Strong demot](https://youtu.be/zv3cVJHCqXA){:target="_blank"}
+* [Formatting strings](https://youtu.be/bQQqxysLIGE){:target="_blank"}
+* [Formatting strings demo](https://youtu.be/E850-MF22P0){:target="_blank"}
+
 ### Module 2
 
 [Numerical data explained - introducing digits](https://youtu.be/YDDqe60omL0){:target="_blank"}
+[Numerical datatypes](https://youtu.be/5yhn0MFLcu8)
+[Numerical datatypes demo](https://youtu.be/T1j2tfZK7OI)
 
 ### Module 3 - Loops and functions
 
-#### Video resources
-
 * [Loops](https://youtu.be/LrOAl8vUFHY){:target="_blank"}
-* [Loops Demostration](https://youtu.be/rAvD-6MpTw4){:target="_blank"}
+* [Loops demo](https://youtu.be/rAvD-6MpTw4){:target="_blank"}
 * [Functions](https://youtu.be/nrCAxXfRU28){:target="_blank"}
-* [Functions Demo](https://youtu.be/C9ZEGqGHXms){:target="_blank"}
+* [Functions demo](https://youtu.be/C9ZEGqGHXms){:target="_blank"}
 
 ### Module 4
 
+#### Decisions
+
+* [Conditional logic](https://youtu.be/5pPKYWqkoek){:target="_blank"}
+* [Conditional logic demo](https://youtu.be/zqVmqtTLmgw){:target="_blank"}
+* [Mutiple conditions](https://youtu.be/oYaGJBMoXok){:target="_blank"}
+* [Mulitple contions demo](https://youtu.be/J9luo4cODzM){:target="_blank"}
+* [Complex conditions](https://youtu.be/IBOHc87yFYw){:target="_blank"}
+* [COmplex conditions demo](https://youtu.be/Iui6K2STtbA){:target="_blank"}
+
+#### Lists
+
+* [Collection (lists)](https://youtu.be/beA8IsY3mQs){:target="_blank"}
+* [Collections (Lists) demo](https://youtu.be/4PaSlXNjawM){:target="_blank"}
+
 ### Module 5
 
-[Introduction to numerical systems and binary](https://youtu.be/ku4KOFQ-bB4){:target="_blank"}
-[Encoding and decoding ASCII](https://youtu.be/z_URHQzlFro){:target="_blank"}
+* [Introduction to numerical systems and binary](https://youtu.be/ku4KOFQ-bB4){:target="_blank"}
+* [Encoding and decoding ASCII](https://youtu.be/z_URHQzlFro){:target="_blank"}
 
 ### Module 6
 

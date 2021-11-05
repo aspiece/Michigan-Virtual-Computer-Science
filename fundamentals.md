@@ -2,6 +2,14 @@
 
 ## Instructor - Andrew Spiece
 
+### Assignment submissions
+
+Make sure you are using the assignment template to submit your programming assignments. There are two parts to every assignment
+
+Part 1 - Poogramming - This includes your psuedocode and the code you wrote. It is important that you paste your code into this section so it can be tested during grading.
+
+Part 2 - Post-Mortem review - This is a reflection of your project. It's important to take this time to reflect on how you can improve the next time you are writing code.
+
 ### Module 1
 
 * [Introducing Python](https://youtu.be/7XOhibxgBlQ){:target="_blank"}

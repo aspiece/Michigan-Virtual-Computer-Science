@@ -55,6 +55,8 @@ Part 2 - Post-Mortem review - This is a reflection of your project. It's importa
 
 * [Introduction to numerical systems and binary](https://youtu.be/ku4KOFQ-bB4){:target="_blank"}
 * [Encoding and decoding ASCII](https://youtu.be/z_URHQzlFro){:target="_blank"}
+* [Procedural vs. Object oriented programming](https://youtu.be/z_URHQzlFro){:target="_blank"}
+* [Classes and objects](https://youtu.be/apACNr7DC_s){:target="_blank"}
 
 ### Module 6
 
